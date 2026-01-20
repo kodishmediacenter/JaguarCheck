@@ -1,3 +1,5 @@
+# Analise de Tiers 
+
 A **análise por Tiers** é um **método estruturado de hierarquização de fontes** para separar fato confiável, informação frágil e desinformação. Ela não avalia opinião, e sim **origem, autoridade e evidência**.
 
 ---
