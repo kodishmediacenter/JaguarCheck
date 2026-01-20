@@ -1,6 +1,9 @@
 # Vacinas de mRNA contra a COVID-19: Uma Realização Incrível da Tecnologia Genômica
 
-*Publicado em 5 de março de 2021 por Joanne Cono, W. David Dotson, Ridgely Fisk Green e Muin J. Khoury — Office of Science, CDC* :contentReference[oaicite:0]{index=0}
+*Publicado em 5 de março de 2021 por Joanne Cono, W. David Dotson, Ridgely Fisk Green e Muin J. Khoury — Office of Science, CDC* 
+
+Fonte: https://blogs.cdc.gov/genomics/2021/03/05/mrna-covid-19-vaccines/ <br>
+Arquivado: https://web.archive.org/web/20260120155038/https://blogs.cdc.gov/genomics/2021/03/05/mrna-covid-19-vaccines/ <br><br>
 
 ## Introdução
 
