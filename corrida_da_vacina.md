@@ -1,4 +1,6 @@
 # A corrida pela vacina contra a COVID-19: desafios e oportunidades na formulação de vacinas
+<br><br>
+Fonte : https://www.periodicos.capes.gov.br/index.php/acervo/buscador.html?task=detalhes&id=W3047135833
 
 # * Resumo
 Na corrida por uma vacina segura e eficaz contra a doença do coronavírus (COVID-19), a ciência da formulação farmacêutica desempenha um papel crucial em todas as fases de desenvolvimento, fabricação, distribuição e vacinação. A escolha adequada do tipo de vacina, vetor ou carreador, adjuvante, excipientes, forma farmacêutica e via de administração pode impactar diretamente não apenas as respostas imunes induzidas e a eficácia resultante contra a COVID-19, mas também a logística de fabricação, armazenamento e distribuição da vacina, bem como a vacinação em massa. Nesta revisão, descrevemos as vacinas contra a COVID-19 que estão atualmente sendo testadas em ensaios clínicos e fornecemos informações detalhadas sobre os vários tipos de vacinas, suas composições, vantagens e limitações potenciais. Também abordamos como os desafios na distribuição e administração da vacina podem ser atenuados pela aplicação de estratégias de estabilização da vacina e pelo uso de vias de administração não invasivas específicas que induzem resposta imune mucosa, aspectos que devem ser considerados desde o início do processo de desenvolvimento.
