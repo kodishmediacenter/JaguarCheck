@@ -25,7 +25,7 @@ A vistoria é executada pelos Detrans estaduais, dentro de regras nacionais do C
 
 Tentativas anteriores fracassaram por custo, impacto social e resistência política.
 
-#🔹 Situação do projeto citado:
+# 🔹 Situação do projeto citado:
 
 O PL que propõe vistoria periódica para veículos com mais de 5 anos:
 
@@ -35,7 +35,7 @@ O PL que propõe vistoria periódica para veículos com mais de 5 anos:
 
 ❌ Não cria imposto
 
-✔️ Está em tramitação, sujeito a mudanças, rejeição ou arquivamento.
+# ✔️ Está em tramitação, sujeito a mudanças, rejeição ou arquivamento.
 
 # ⚠️ Ponto-chave contra a desinformação
 
