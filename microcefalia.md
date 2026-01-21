@@ -52,8 +52,8 @@ Fonte: https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L13985.htm
 o veto foi coerente do ponto de vista fiscal e constitucional, porque leis que criam despesas permanentes precisam indicar impacto e fonte de custeio. Sem isso, o veto é um mecanismo legítimo de controle. Já a derrubada pelo Congresso é igualmente legítima no plano político, pois transfere ao Legislativo a responsabilidade pelo custo e pela priorização orçamentária.
 
 Em resumo:
-– Veto: correto tecnicamente.
-– Derrubada: decisão política consciente.
+– Veto: correto tecnicamente. <br>
+– Derrubada: decisão política consciente.<br>
 
 [1]: https://www.camara.leg.br/noticias/652710-sancionada-lei-que-da-pensao-vitalicia-a-criancas-afetadas-por-zika-virus/ "Sancionada lei que dá pensão vitalícia a crianças afetadas por Zika vírus - Notícias - Portal da Câmara dos Deputados"
 [2]: https://www.camara.leg.br/noticias/1117935-CAMARA-APROVA-PENSAO-VITALICIA-E-INDENIZACAO-AS-PESSOAS-COM-DEFICIENCIA-PERMANENTE-ASSOCIADA-AO-ZIKA-VIRUS "Câmara aprova pensão vitalícia e indenização às pessoas com deficiência permanente associada ao Zika vírus - Notícias - Portal da Câmara dos Deputados"
