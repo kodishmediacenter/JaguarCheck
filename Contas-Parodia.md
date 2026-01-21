@@ -2,14 +2,14 @@
 
 No antigo Twitter (hoje X), conta de paródia é um perfil criado para humor, sátira ou crítica, que imita estilo, linguagem ou persona de uma pessoa, instituição ou ideia, sem ser a fonte real.
 
-Definição objetiva
+# Definição objetiva
 
 Conta que:
-*❌ Não representa oficialmente a pessoa/instituição retratada*
-*✅ Usa sátira, ironia ou exagero como recurso*
-*⚠️ Pode causar confusão se não for claramente identificada*
+❌ Não representa oficialmente a pessoa/instituição retratada
+✅ Usa sátira, ironia ou exagero como recurso
+⚠️ Pode causar confusão se não for claramente identificada
 
-Regras históricas (Twitter/X)
+# Regras históricas (Twitter/X)
 
 Deve indicar claramente na bio ou nome algo como “paródia”, “satírico”, “não oficial”
 
