@@ -24,3 +24,7 @@ Paródia → humor + identificação clara
 Fake/impersonação → engano deliberado
 
 Em checagem de fatos, contas de paródia não são fonte confiável e entram como servindo apenas para análise de narrativa, nunca como evidência.
+
+# Opinião da Jaguar Check 
+
+As contas parodias são maior fonte depois opositores como maior fonte desinformação da internet recomendo sempre olhar sites reputação jornalistica seria 
