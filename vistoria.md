@@ -1,5 +1,9 @@
 # Contexto legal atual da vistoria veicular no Brasil
 
+  Fonte :    https://www.camara.leg.br/noticias/1238138-projeto-institui-vistoria-veicular-periodica-obrigatoria
+  Arquivado: https://web.archive.org/web/20260121181247/https://www.camara.leg.br/noticias/1238138-projeto-institui-vistoria-veicular-periodica-obrigatoria
+
+
 🔹 Não existe hoje no Brasil uma vistoria veicular periódica obrigatória nacional baseada apenas na idade do veículo.
 
 🔹 O que existe em vigor (Tier 0):
@@ -40,3 +44,4 @@ O PL que propõe vistoria periódica para veículos com mais de 5 anos:
 # ⚠️ Ponto-chave contra a desinformação
 
 Confundir projeto em debate com lei em vigor e chamar vistoria de “imposto” é erro factual e enquadramento enganoso.
+
