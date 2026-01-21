@@ -51,7 +51,7 @@ Fonte: https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L13985.htm
 
 o veto foi coerente do ponto de vista fiscal e constitucional, porque leis que criam despesas permanentes precisam indicar impacto e fonte de custeio. Sem isso, o veto é um mecanismo legítimo de controle. Já a derrubada pelo Congresso é igualmente legítima no plano político, pois transfere ao Legislativo a responsabilidade pelo custo e pela priorização orçamentária.
 
-Em resumo:
+Em resumo:<br><br>
 – Veto: correto tecnicamente. <br>
 – Derrubada: decisão política consciente.<br>
 
