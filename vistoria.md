@@ -45,3 +45,20 @@ O PL que propõe vistoria periódica para veículos com mais de 5 anos:
 
 Confundir projeto em debate com lei em vigor e chamar vistoria de “imposto” é erro factual e enquadramento enganoso.
 
+
+# Paises que cobram pelo serviço 
+
+| País               | Nome da inspeção    | Periodicidade | Valor médio   |
+| ------------------ | ------------------- | ------------- | ------------- |
+| 🇩🇪 Alemanha        | TÜV / DEKRA         | Bienal         | €100–150      |
+| 🇫🇷 França          | Contrôle Technique  | Bienal         | €80–100       |
+| 🇬🇧 Reino Unido     | MOT Test            | Anual          | até £54,85    |
+| 🇵🇹 Portugal        | Inspeção Periódica  | Anual          | €35–60        |
+| 🇪🇸 Espanha         | ITV                 | Anual/Bienal   | €30–50        |
+| 🇮🇹 Itália          | Revisione           | Bienal         | ~€66          |
+| 🇯🇵 Japão           | Shaken              | Periódica      | US$ 800–1.200 |
+| 🇨🇦 Canadá          | Inspeção provincial | Variável       | US$ 60–120    |
+| 🇺🇸 EUA             | Inspeção estadual   | Variável       | US$ 20–70     |
+| 🇦🇺 Austrália       | Safety Check        | Variável       | AUD 40–80     |
+| 🇳🇿 Nova Zelândia   | WOF                 | Periódica      | NZD 50–70     |
+| 🇧🇷 Brasil          | —                   | ❌ Não existe  | —             |
