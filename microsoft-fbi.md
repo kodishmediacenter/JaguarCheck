@@ -193,10 +193,3 @@ A entrega de chaves por ordem judicial é legal nos EUA, mas pode conflitar com 
 
 ---
 
-Se quiser, próximo passo:
-
-* aplicar isso **especificamente ao Windows 11 no Brasil**
-* transformar em **nota curta pro X**
-* comparar **LGPD × GDPR × EUA**
-* avaliar **risco jurídico real vs teórico**
-
