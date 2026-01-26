@@ -63,3 +63,4 @@ O Jaguar Check existe justamente para **romper esse ciclo**, independentemente d
 <a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/microsoft-fbi.md">A Microsoft afirma que colaborará com o FBI para desbloquear os dados criptografados dos seus PCs com Windows, caso seja solicitado.</a><br>
 <a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/vistoria.md">Contexto legal atual da vistoria veicular no Brasil</a><br>
 <a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Judiciario%20Mais%20Corrupto%20do%20Planeta.md">Judiciario Mais Corrupto do Brasil</a><br>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/gnose.md">Gnose: Espiritualidade, Dualismo e a Confusão com Satanismo</a><br>
