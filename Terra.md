@@ -14,7 +14,7 @@
 
 # Explicação 
 
-🔎 Análise por Tiers
+🔎 Análise por Tiers<br>
 🟢 Tier 1 – Conteúdo factual verificável
 
 A meia-vida do urânio-238 (~4,5 bilhões de anos) é um dado científico consolidado.
