@@ -23,7 +23,7 @@ O decaimento radioativo até chumbo é real e comprovado.
 
 A idade da Terra (~4,54 bilhões de anos) é consenso científico.
 
-✔️ A resposta científica está correta.
+✔️ A resposta científica está correta.s<br>
 
 🟡 Tier 2 – Contexto correto, mas simplificado
 
@@ -31,7 +31,7 @@ A afirmação “a Terra tem 4.000 anos” representa uma visão criacionista li
 
 O comentário usa um exemplo forte, mas não explica todos os métodos (datação radiométrica, geologia, astrofísica).
 
-⚠️ Cientificamente correto, porém resumido.
+⚠️ Cientificamente correto, porém resumido. <br>
 
 🟠 Tier 3 – Enquadramento retórico / deboche
 
@@ -41,7 +41,7 @@ O tom é de humor intelectual, não de debate aberto.
 
 Não há tentativa de diálogo com o ponto de vista religioso — apenas refutação.
 
-⚠️ Pode gerar reação emocional em vez de compreensão.
+⚠️ Pode gerar reação emocional em vez de compreensão.<br>
 
 🔴 Tier 4 – Risco de polarização
 
@@ -51,7 +51,7 @@ atacar religiões de forma generalizada
 
 misturar fé com ignorância científica
 
-reforçar a ideia “ciência vs religião” como guerra total
+reforçar a ideia “ciência vs religião” como guerra total <br>
 
 🚨 O risco não é desinformação científica, mas desinformação cultural.
 
@@ -63,9 +63,9 @@ A imagem vira munição simbólica:
 
 “ciência humilha a fé”
 
-Ignora que:
+Ignora que:<br>
 
-muitos religiosos aceitam a idade científica da Terra
+muitos religiosos aceitam a idade científica da Terra <br>
 
 criacionismo literal não representa toda religião
 
