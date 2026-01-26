@@ -48,3 +48,17 @@ O Jaguar Check existe justamente para **romper esse ciclo**, independentemente d
 
 ## 📂 Estrutura do Repositório
 
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/AN%C3%81LISE%20T%C3%89CNICA%20%E2%80%94%20Blog%20CDC%20sobre%20vacinas%20de%20mRNA.md">ANÁLISE TÉCNICA — Blog CDC sobre vacinas de mRNA</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Analise-De-Tiers.md">O que é Analise De Tiers</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Atos-Bolsonaro-NaCovid">Atos do Bolsonaro Na Covid</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Capitalistas-S%C3%A3o-Mas-Pacificos.md">Capitalistas São Mas Pacificos ?</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Contas-Parodia.md">O que são Contas Parodia ?</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Covid-Brasil.md">Cronologia da Covid no Brasil</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Oscar-Explain.md">Como Filme é Escolhido para Oscar </a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Terra.md">Idade do Planeta Terra</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/Vacinas%20de%20mRNA%20contra%20a%20COVID-19%3A%20Uma%20Realiza%C3%A7%C3%A3o%20Incr%C3%ADvel%20da%20Tecnologia%20Gen%C3%B4mica.md">Vacinas de mRNA contra a COVID-19: Uma Realização Incrível da Tecnologia Genômica</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/corrida_da_vacina.md">A Corrida da vacina</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/igreja.md">Opinião sobre Igreja sobre União LGBT e afins</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/microcefalia.md">Pensão vitalícia e indenização às pessoas com deficiência permanente associada ao Zika vírus</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/microsoft-fbi.md">A Microsoft afirma que colaborará com o FBI para desbloquear os dados criptografados dos seus PCs com Windows, caso seja solicitado.</a>
+<a href="https://github.com/kodishmediacenter/JaguarCheck/blob/main/vistoria.md">Contexto legal atual da vistoria veicular no Brasil</a>
