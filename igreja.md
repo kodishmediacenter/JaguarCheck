@@ -1,4 +1,4 @@
-# Sim — pesquisei informações **atualizadas** sobre a **posição oficial atual da Igreja Católica sobre casamento homosexual** (união entre pessoas do mesmo sexo). Aqui está o que fontes confiáveis relatam 🔎:
+# Analise Igreja sobre o casamento entre Homen e Mulher
 
 ### 📌 1. **Casamento sacramental**
 
