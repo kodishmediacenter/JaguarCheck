@@ -6,11 +6,8 @@ Caso de maus-tratos com resultado morte de um cão comunitário em Florianópoli
 
 ### 📷 Registro visual
 
-> **Imagem ilustrativa do cão comunitário Orelha** (inserir link público da foto):
->
-> ```markdown
-> <img src="https://ichef.bbci.co.uk/ace/ws/578/cpsprodpb/9933/live/d76a38a0-fd27-11f0-890b-55ca0a00c59d.png">
-> ```
+
+ <img src="https://ichef.bbci.co.uk/ace/ws/578/cpsprodpb/9933/live/d76a38a0-fd27-11f0-890b-55ca0a00c59d.png">
 >
 > Observação: use apenas imagens de domínio público ou autorizadas para reprodução.
 
