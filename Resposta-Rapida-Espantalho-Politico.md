@@ -72,6 +72,3 @@ Ideologia é negar dados usando emoção no lugar de evidência.
 
 ---
 
-## ⚠️ Nota
-Este repositório não substitui análise acadêmica ou jornalística.
-É uma ferramenta prática para resposta rápida em ambientes digitais.
