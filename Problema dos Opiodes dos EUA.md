@@ -120,6 +120,26 @@ Isso ajudou a elevar ainda mais as mortes antes da desaceleração recente.
 
 ---
 
+## 📊 Dados utilizados (estimativa de mortes por opioides sintéticos / fentanil)
+
+ Ano |  Mortes estimadas
+___________________________
+2010 |  5 000
+2012 |	8 000
+2014 |	10 000
+2016 |	15 000
+2017 |	21 000
+2018 |	28 000
+2019 |	32 000
+2020 |	41 000
+2021 |	56 000
+2022 |	76 000
+2023 |	75 000*
+2024 |	55 000*
+
+❗ *2023 e 2024 são provisórios — podem ser ajustados posteriormente.
+
+
 Se quiser, posso transformar isso em um **relatório com gráficos prontos para apresentação** (PDF/PNG) também!
 
 [1]: https://www.cdc.gov/overdose-prevention/about/prescription-opioids.html "About Prescription Opioids | Overdose Prevention | CDC"
