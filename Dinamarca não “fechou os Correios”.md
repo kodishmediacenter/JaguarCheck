@@ -1,7 +1,7 @@
 
 # Narrativa
 
-<img src="https://www.em.com.br/emfoco/wp-content/uploads/2025/12/Gemini_Generated_Image_5sim8x5sim8x5sim-1-1024x576.png"
+<img src="https://www.em.com.br/emfoco/wp-content/uploads/2025/12/Gemini_Generated_Image_5sim8x5sim8x5sim-1-1024x576.png">
 
 A Dinamarca fechou os Correios de 400 anos. Motivo: ninguém mais usa. É o Estado se adaptando à realidade.
 No Brasil? Decidimos injetar R$ 20 BILHÕES nos nossos, mesmo com déficits gigantescos.
