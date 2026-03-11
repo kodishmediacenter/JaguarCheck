@@ -19,11 +19,11 @@ A organização também treina advogados e líderes através de programas como a
 
 => Passa pano para discurso transfobico desde 2019 é crime 
 
- *A transfobia é crime no Brasil desde 2019, quando o Supremo Tribunal Federal (STF) equiparou a homofobia e a transfobia ao crime de racismo (Lei 7.716/1989).
-Atos de discriminação, ofensas, agressões ou exclusão baseados na identidade de gênero são inafiançáveis e imprescritíveis, com pena de reclusão de 2 a 5 anos."*
+ **A transfobia é crime no Brasil desde 2019, quando o Supremo Tribunal Federal (STF) equiparou a homofobia e a transfobia ao crime de racismo (Lei 7.716/1989).
+Atos de discriminação, ofensas, agressões ou exclusão baseados na identidade de gênero são inafiançáveis e imprescritíveis, com pena de reclusão de 2 a 5 anos.**
 
-*Enquadramento:* Casos de transfobia são tratados como racismo, pois a lei de racismo pune crimes que atentam contra a dignidade e identidade de grupos sociais.<br>
-O que constitui crime: Ofensas verbais ou escritas, recusa de atendimento, exclusão de espaços educacionais/profissionais, incitação à violência e agressões físicas ou psicológicas motivadas pela identidade de gênero.<br>
+**Enquadramento:* Casos de transfobia são tratados como racismo, pois a lei de racismo pune crimes que atentam contra a dignidade e identidade de grupos sociais.**
+**O que constitui crime: Ofensas verbais ou escritas, recusa de atendimento, exclusão de espaços educacionais/profissionais, incitação à violência e agressões físicas ou psicológicas motivadas pela identidade de gênero.**
 Uso de Pronome: O uso proposital de pronome incorreto ou desrespeito ao nome social pode configurar transfobia.<br>
 Punições: A pena é de um a três anos para casos de discriminação, e pode chegar a dois a cinco anos em casos mais graves, além de multa e possível perda de cargo público.<br>
 Ação Judicial: A omissão do Congresso Nacional em legislar sobre o tema levou o STF a intervir para garantir a proteção da população LGBTQIA+.<br>*
