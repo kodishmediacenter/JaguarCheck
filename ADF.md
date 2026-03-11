@@ -17,7 +17,7 @@ A organização também treina advogados e líderes através de programas como a
 
 # Por que ADF é perigosa
 
-=> Passa pano para discurso transfobico desde 2019 é crime 
+**=> Passa pano para discurso transfobico desde 2019 é crime** 
 
  **A transfobia é crime no Brasil desde 2019, quando o Supremo Tribunal Federal (STF) equiparou a homofobia e a transfobia ao crime de racismo (Lei 7.716/1989).
 Atos de discriminação, ofensas, agressões ou exclusão baseados na identidade de gênero são inafiançáveis e imprescritíveis, com pena de reclusão de 2 a 5 anos.**
